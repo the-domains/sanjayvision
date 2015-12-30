@@ -1,7 +1,7 @@
 name: sanjayvision
 favicon: null
-layout_spectrum: 0.6676386478357017
-typography_spectrum: 0.9172498544212431
+layout_spectrum: 1
+typography_spectrum: 0.28804
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ebebeb'
+    - '#a2a2a2'
+    - '#343434'
+    - '#6d6d6d'
+    - '#151515'
   brandStrength: 0.8455768192652613
   lightness: 0.27953975554555655
   saturation: 0.009925637161359191
