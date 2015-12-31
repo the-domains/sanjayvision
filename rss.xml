@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Neil Sanjay Singh | Creator]]></title>
         <description><![CDATA[Neil Sanjay Singh | Creator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sanjayvision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 06:45:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 06:51:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sanjayvision/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9c8597-dff7-45be-a37b-2d01f7d40ccd.jpg"></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/sanjayvision/about/index.html</link>
             <guid isPermaLink="false">bd59c6c4-8fce-4b6f-81a5-a5d6636882b1</guid>
-            <pubDate>Thu, 31 Dec 2015 06:45:46 GMT</pubDate>
+            <pubDate>Thu, 31 Dec 2015 06:51:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
