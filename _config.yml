@@ -22,7 +22,7 @@ analytics:
   twitter: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/98d2bd20-8a9f-42dc-8e9b-dc8f8d99ff70.png
-name: Public Use Only
+name: Gallery
 cta:
   domain: null
   bucket: null
@@ -45,6 +45,9 @@ navigation:
     type: external
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/sanjayvision'
+    type: external
+  - name: Soundcloud
+    url: 'https://soundcloud.com/sanjayvision'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b8fc7c-e295-47c3-8517-ed3de069c197.png
