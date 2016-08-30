@@ -31,9 +31,6 @@ navigation:
   - name: About
     id: bd59c6c4-8fce-4b6f-81a5-a5d6636882b1
     type: content
-  - name: IMDB
-    id: 88289417-e0c2-429c-ae33-906532d819b0
-    type: content
   - name: Instagram
     id: 2dfd16ec-5b7b-4a52-8c61-be9956da9e6a
     type: content
