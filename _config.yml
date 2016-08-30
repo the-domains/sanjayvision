@@ -43,6 +43,9 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/sanjayvision'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/sanjayvision/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b8fc7c-e295-47c3-8517-ed3de069c197.png
 title: Neil Sanjay Singh | Creator
