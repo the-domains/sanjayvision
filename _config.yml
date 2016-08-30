@@ -37,12 +37,12 @@ navigation:
   - name: Instagram
     id: 2dfd16ec-5b7b-4a52-8c61-be9956da9e6a
     type: content
-  - name: LinkedIn
-    id: 0e4cbbde-0cf5-424b-bfa9-b7764677df28
-    type: content
   - name: Twitter
     url: 'https://twitter.com/sanjayradio'
     type: external
+  - name: LinkedIn
+    id: 0e4cbbde-0cf5-424b-bfa9-b7764677df28
+    type: content
 favicon: null
 title: Neil Sanjay Singh | Creator
 description: The life I tell you about.
