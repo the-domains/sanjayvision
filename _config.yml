@@ -27,6 +27,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    id: bd59c6c4-8fce-4b6f-81a5-a5d6636882b1
+    type: content
 favicon: null
 title: Neil Sanjay Singh | Creator
 description: The life I tell you about.
