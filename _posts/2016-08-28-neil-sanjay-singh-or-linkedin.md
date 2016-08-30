@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-28T20:36:56.283Z'
+datePublished: '2016-08-28T20:36:58.413Z'
 sourcePath: _posts/2016-08-28-neil-sanjay-singh-or-linkedin.md
 isBasedOnUrl: 'https://www.linkedin.com/in/sanjayvision'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T20:36:54.101Z'
+dateModified: '2016-08-28T20:36:57.834Z'
 title: LinkedIn
 app_links: []
 publisher:
