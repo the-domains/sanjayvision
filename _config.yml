@@ -25,6 +25,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Instagram
+    url: 'https://www.instagram.com/sanjayvision/'
+    type: external
 favicon: null
 title: Neil Sanjay Singh | Creator
 description: The life I tell you about.
