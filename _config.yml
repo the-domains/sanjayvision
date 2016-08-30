@@ -1,4 +1,5 @@
-typography_spectrum: 0.05790590378455818
+layout_spectrum: 0.5059124438557774
+typography_spectrum: 0.49814752535894513
 color:
   brandColors:
     - '#2C3E50'
@@ -15,7 +16,6 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cf5bf6a-e30f-4291-bb96-9fd2dd263f50.png
   type: Post
   appId: '1686033208385756'
-layout_spectrum: 0.22334779589436948
 analytics:
   google: UA-83265665-1
   facebook: null
