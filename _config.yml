@@ -20,6 +20,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf3ac889-923e-44b5-81ba-0b82f2f39686.png
 name: Sanjayvision
 cta:
   domain: null
