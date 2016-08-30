@@ -4,8 +4,15 @@
         <description><![CDATA[Neil Sanjay Singh | Creator]]></description>
         <link>http://sanjayvision.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 20:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 20:47:05 GMT</lastBuildDate>
         <atom:link href="http://sanjayvision.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>SANJAY IS A FILMMAKER AND FOUNDER OF NUKHU.COM, A PRODUCTION AND DISTRIBUTION CHANNEL FEATURING CURATED MEDIA FROM AROUND THE WORLD.  SANJAY IS AN ALUMNI OF NYU, TISCH SHOOL OF ARTS.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a04da13f-7fd2-40be-a67e-5056e9778168.jpg"></article>]]></description>
+            <link>http://sanjayvision.com/about/index.html</link>
+            <guid isPermaLink="false">bd59c6c4-8fce-4b6f-81a5-a5d6636882b1</guid>
+            <pubDate>Sun, 28 Aug 2016 20:46:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Instagram]]></title>
             <description><![CDATA[<article><h1>Instagram</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a73408554853589c08c5fd28a0499838/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-19%2F10914508_1534549926798979_1279736371_a.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://www.imdb.me/sanjayvision</link>
             <guid isPermaLink="false">88289417-e0c2-429c-ae33-906532d819b0</guid>
             <pubDate>Sun, 28 Aug 2016 20:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>SANJAY IS A FILMMAKER AND FOUNDER OF NUKHU.COM, A PRODUCTION AND DISTRIBUTION CHANNEL FEATURING CURATED MEDIA FROM AROUND THE WORLD.  SANJAY IS AN ALUMNI OF NYU, TISCH SHOOL OF ARTS.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a04da13f-7fd2-40be-a67e-5056e9778168.jpg"></article>]]></description>
-            <link>http://sanjayvision.com/about/index.html</link>
-            <guid isPermaLink="false">bd59c6c4-8fce-4b6f-81a5-a5d6636882b1</guid>
-            <pubDate>Sun, 28 Aug 2016 20:30:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
