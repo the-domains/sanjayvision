@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-08-28T20:39:33.393Z'
+datePublished: '2016-08-28T20:46:39.611Z'
 sourcePath: _posts/2016-08-28-by-sanjay-sanjayvision-instagram-photos-and-videos.md
-isBasedOnUrl: 'https://www.instagram.com/sanjayvision/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T20:39:33.062Z'
+dateModified: '2016-08-28T20:46:38.432Z'
 title: Instagram
 app_links:
   - url: 'instagram://user?username=sanjayvision'
@@ -30,10 +29,9 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ''
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: instagram/index.html
 _context: 'http://schema.org'
 _type: Photograph
 
