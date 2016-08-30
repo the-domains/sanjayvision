@@ -43,6 +43,9 @@ navigation:
   - name: LinkedIn
     id: 0e4cbbde-0cf5-424b-bfa9-b7764677df28
     type: content
+  - name: IMDB
+    url: 'http://www.imdb.me/sanjayvision?ref_=pro_nm_nav_ov_vanity'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b8fc7c-e295-47c3-8517-ed3de069c197.png
 title: Neil Sanjay Singh | Creator
