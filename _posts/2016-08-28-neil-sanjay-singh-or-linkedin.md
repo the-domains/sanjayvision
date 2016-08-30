@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-08-28T20:36:58.413Z'
+datePublished: '2016-08-28T20:51:15.102Z'
 sourcePath: _posts/2016-08-28-neil-sanjay-singh-or-linkedin.md
-isBasedOnUrl: 'https://www.linkedin.com/in/sanjayvision'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T20:36:57.834Z'
+dateModified: '2016-08-28T20:51:14.790Z'
 title: LinkedIn
 app_links: []
 publisher:
@@ -15,10 +14,9 @@ publisher:
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
   domain: www.linkedin.com
 description: Include this LinkedIn profile on other websites
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: linkedin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
