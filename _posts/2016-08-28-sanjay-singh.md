@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-28T20:36:28.678Z'
+datePublished: '2016-08-28T20:46:20.080Z'
 sourcePath: _posts/2016-08-28-sanjay-singh.md
-isBasedOnUrl: 'http://www.imdb.me/sanjayvision'
 keywords:
   - sanjay
   - singh
@@ -16,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T20:36:23.045Z'
+dateModified: '2016-08-28T20:46:19.829Z'
 title: IMDB
 app_links: []
 publisher:
@@ -30,10 +29,9 @@ description: >-
   known for Prelude (2012), The American People (2016) and Secondary Education
   (2013).
 inLanguage: en
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: imdb/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
