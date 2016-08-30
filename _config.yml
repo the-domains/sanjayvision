@@ -34,11 +34,11 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/sanjayradio'
     type: external
-  - name: IMDB
-    url: 'http://www.imdb.me/sanjayvision?ref_=pro_nm_nav_ov_vanity'
-    type: external
   - name: Instagram
     url: 'https://www.instagram.com/sanjayvision/'
+    type: external
+  - name: IMDB
+    url: 'http://www.imdb.me/sanjayvision?ref_=pro_nm_nav_ov_vanity'
     type: external
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/sanjayvision'
