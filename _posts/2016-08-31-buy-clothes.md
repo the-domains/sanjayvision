@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T05:19:55.650Z'
+datePublished: '2016-08-31T05:21:35.866Z'
+sourcePath: _posts/2016-08-31-buy-clothes.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T05:19:52.726Z'
+dateModified: '2016-08-31T05:21:35.532Z'
 title: Buy Clothes
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-31-buy-clothes.md
-_type: Blurb
+url: buy-clothes/index.html
+_type: Article
 
 ---
 # Buy Clothes
